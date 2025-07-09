@@ -29,3 +29,8 @@ Once the Python library was edited, I zipped the project and installed the modif
 This project is not yet complete. It can only **display text**. You cannot scroll text or clear the display with the current functionality.
 
 โปรเจกต์นี้ยังไม่สมบูรณ์ สามารถทำได้เพียง **แสดงผลข้อความ (show text)** เท่านั้น ยังไม่รองรับฟังก์ชันการทำงานอื่น ๆ เช่น การเลื่อนข้อความ (scroll text) หรือการล้างหน้าจอ (clear display)
+
+## อ้างอิง
+## referrent
+**fdebrabander lcdi2c**: [https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
+**LCDI2C-extension** ([https://github.com/microBlock-IDE/LCDI2C-extension/tree/master](https://github.com/microBlock-IDE/LCDI2C-extension/tree/master))
